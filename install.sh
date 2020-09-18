@@ -9,4 +9,4 @@ function add_to_list() {
 add_to_list e32bd0f1-e502-46bf-b013-7bcbbcdd91ee
 add_to_list bdc8e896-f9d6-405b-98a6-2beb26b878ab
 
-dconf load /org/gnome/terminal/ < themes.dconf
+dconf load /org/gnome/terminal/ < themes.ini

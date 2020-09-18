@@ -33,3 +33,4 @@ Tips for working on plain air
    They are hard to clean from your screen.
 3. Set the brightness level to the maximum.
 4. Have a cleaning cloth with you. A dust is very distracting in the sun.
+5. Try [hull](https://github.com/igrmk/kull-vim) theme for Vim and [Helsing](https://github.com/igrmk/helsing) theme for JetBrains products.

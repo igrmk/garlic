@@ -17,8 +17,9 @@ There is also Garlic Moon theme with normal brightness
 Installation
 ------------
 
-1. Download or clone
-2. Run install script
+    git clone https://github.com/igrmk/garlic.git
+    cd garlic
+    ./install.sh
 
 Tips for working on plain air
 -----------------------------

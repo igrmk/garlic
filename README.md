@@ -10,7 +10,7 @@ Garlic Sun
 
 Garlic Moon
 -----------
-There is also Garlic Moon theme with normal brightness
+There is also Garlic Moon theme which is duller and more suitable for low brightness
 
 <img src="img/moon.png" width="400">
 

@@ -14,12 +14,24 @@ There is also Garlic Moon theme which is duller and more suitable for low bright
 
 <img src="img/moon.png" width="400">
 
-Installation
-------------
+Installation for Gnome Terminal
+-------------------------------
 
     git clone https://github.com/igrmk/garlic.git
     cd garlic
-    ./install.sh
+    ./install-for-gnome-terminal.sh
+
+Installation for Kitty ≥ 0.23.0
+-------------------------------
+
+    git clone https://github.com/igrmk/garlic.git
+    cd garlic
+    ./install-for-kitty.sh
+
+Then enable the theme with one of these commands
+
+    kitty +kitten themes --reload-in=all Garlic Moon
+    kitty +kitten themes --reload-in=all Garlic Sun
 
 Tips for working on plain air
 -----------------------------

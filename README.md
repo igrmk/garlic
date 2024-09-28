@@ -1,8 +1,8 @@
 Garlic
 ======
 
-This is a dark color theme for Gnome Terminal for working under the sunlight.
-It is designed to be visible even in enormously bright environment.
+This is a dark color theme for Gnome Terminal and Kitty, optimized for working in bright sunlight.
+It’s designed to remain visible even in extremely bright conditions.
 
 Garlic Sun
 ----------
